@@ -1,10 +1,10 @@
-/* ****************** NAVBAR FOR SITE ******************************* */
+/* ****************** NAVBAR AND HEADER FOR SITE ******************************* */
 body {
     margin: 0;
 }
 
 nav {
-    background-color: #F5f5f5;
+    background-color: rgba(245,245,245, 0.7)
 
 }
 .navbarList {
@@ -32,3 +32,11 @@ nav {
 .navLinkItem:hover {
     color: #840001;
 }
+
+header {
+    height: 40em;
+    background-image: url('media/sitecoverphoto.jpg');
+    background-position: center;
+
+}
+
