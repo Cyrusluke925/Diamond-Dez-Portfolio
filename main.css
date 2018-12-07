@@ -12,6 +12,7 @@ nav {
     justify-content: space-around;
     list-style-type: none;
     margin: 0;
+    height: 4.8em;
 }
 
 
@@ -39,4 +40,9 @@ header {
     background-position: center;
 
 }
+
+div#carouselExampleControls.carousel.slide {
+    height: 500px !important;
+}
+
 
